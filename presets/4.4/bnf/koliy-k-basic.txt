@@ -5,12 +5,16 @@
 #$ AUTHOR: ChDB-TEAM
 #$ PARSER: MARKED
 #$ DESCRIPTION: Basic settings for 8 inch kamikaze. May be used with 4S or 6S Li battery. Based on Speedybee F405v3 flight controller
+#$ DESCRIPTION: --------------
 #$ DESCRIPTION: Partlist:
 #$ DESCRIPTION: Motors | EMAX 2807 1300kV
 #$ DESCRIPTION: FC | Speedybee F405 v3
 #$ DESCRIPTION: ESC | Speedybee 55A 4-IN-1
 #$ DESCRIPTION: VTX | RushFPV MAX Solo (UART1)
 #$ DESCRIPTION: RX | ELRS or TBS (UART2)
+#$ WARNING: It resets all settings to default and then applies config. All your custom changes may be lost
+
+defaults nosave
 
 # feature
 feature ESC_SENSOR

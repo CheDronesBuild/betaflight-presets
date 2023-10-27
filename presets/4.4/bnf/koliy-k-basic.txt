@@ -1,7 +1,7 @@
 #$ TITLE: Quaddiction TinyTrainer LED settings
 #$ FIRMWARE_VERSION: 4.4
 #$ CATEGORY: BNF
-#$ STATUS: EXPERIMANTAL
+#$ STATUS: EXPERIMENTAL
 #$ AUTHOR: ChDB-TEAM
 #$ PARSER: MARKED
 #$ DESCRIPTION: Basic settings for 8 inch kamikaze. May be used with 4S or 6S Li battery. Based on Speedybee F405v3 flight controller

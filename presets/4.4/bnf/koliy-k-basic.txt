@@ -13,7 +13,6 @@
 #$ DESCRIPTION: RX | ELRS or TBS (UART2)
 
 # feature
-feature -TELEMETRY
 feature ESC_SENSOR
 
 # serial

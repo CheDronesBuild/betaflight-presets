@@ -1,4 +1,4 @@
-#$ TITLE: Quaddiction TinyTrainer LED settings
+#$ TITLE: Koliy-K basic settings
 #$ FIRMWARE_VERSION: 4.4
 #$ CATEGORY: BNF
 #$ STATUS: EXPERIMENTAL

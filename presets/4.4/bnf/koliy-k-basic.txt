@@ -86,7 +86,7 @@ set vtx_power = 4
 set vtx_low_power_disarm = UNTIL_FIRST_ARM
 set vtx_freq = 5695
 set vcd_video_system = PAL
-set craft_name = Kolik_K
+set craft_name = Koliy_K
 
 profile 0
 
